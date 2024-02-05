@@ -3,6 +3,7 @@ Deep learning course:
 1.
     * Deep Learning with Python (Class, Function, Numpy array, Tensor, List): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/Python_Recap.ipynb)
     * Pytorch Intro [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/Pytorch_Intro.ipynb)
+    * Ultralytics Intro [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/Ultralytics-Intro.ipynb)
     * Extra: Exercise regression + Pipeline Deep Learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/Regressione.ipynb)
     * Extra: Example Training Pytorch  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/TrainingPytorch.ipynb)
     * Extra: Backpropagation in depth: Numpy vs Pytorch,Sine Approximation example: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/NN_structure.ipynb)
