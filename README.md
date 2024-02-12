@@ -7,6 +7,7 @@ Deep learning course:
 
 2. * Example Training Pytorch  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/TrainingPytorch.ipynb)
    * Classifier yolov8n-cls ultralytics: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Ultralytics_Classifier.ipynb)
+   * Classifier Excercise (portafoglio,cassa,tazza): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Ultralytics_Classifier_Excercise.ipynb)
 
 Extra:
    * Network Pytorch Class Feedforward Step: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/NeuralNetPytorch.ipynb)
