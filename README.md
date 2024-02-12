@@ -4,10 +4,15 @@ Deep learning course:
     * Deep Learning with Python (Class, Function, Numpy array, Tensor, List): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Python_Recap.ipynb)
     * Pytorch Intro [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Pytorch_Intro.ipynb)
     * Ultralytics Intro [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Ultralytics_Intro.ipynb)
-    * Extra: Exercise regression + Pipeline Deep Learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Regressione.ipynb)
-    * Extra: Example Training Pytorch  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/TrainingPytorch.ipynb)
-    * Extra: Backpropagation in depth: Numpy vs Pytorch,Sine Approximation example: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/NN_structure.ipynb)
-    * Extra: Network Pytorch Class Feedforward Step: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/NeuralNetPytorch.ipynb)
+
+2. * Example Training Pytorch  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/TrainingPytorch.ipynb)
+   * Classifier yolov8n-cls ultralytics: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Ultralytics_Classifier.ipynb)
+
+Extra:
+   * Network Pytorch Class Feedforward Step: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/NeuralNetPytorch.ipynb)
+   * Backpropagation in depth: Numpy vs Pytorch,Sine Approximation example: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/NN_structure.ipynb)
+   * Exercise regression + Pipeline Deep Learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Regressione.ipynb)
+
 
 <!--
 4. Understand Images, Convolution, DataLoader [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/Understand-Convolution-Dataloader.ipynb) 
