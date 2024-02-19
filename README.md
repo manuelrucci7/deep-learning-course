@@ -10,6 +10,7 @@ Deep learning course:
    * Classifier Excercise (portafoglio,cassa,tazza): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Ultralytics_Classifier_Excercise.ipynb)
 
 3. * Object detector yolov8n ultralytics: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Ultralytics_Detection_Cloud_training.ipynb)
+   * Infrence detection yolov8n example: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Ultralytics_inference_detection.ipynb)
    
 Extra:
    * Network Pytorch Class Feedforward Step: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/NeuralNetPytorch.ipynb)
