@@ -11,6 +11,10 @@ Deep learning course:
 
 3. * Object detector yolov8n ultralytics: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Ultralytics_Detection_Cloud_training.ipynb)
    * Infrence detection yolov8n example: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Ultralytics_inference_detection.ipynb)
+
+4. * Augmentation Segmentation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Ultralytics_Augmentation_Albumentation_Segmentation.ipynb)
+   * Segmentation yolov8 model: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Ultralytics_Custom_Detection_Example_Focus_on_Agumentation.ipynb)
+   
    
 Extra:
    * Network Pytorch Class Feedforward Step: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/NeuralNetPytorch.ipynb)
