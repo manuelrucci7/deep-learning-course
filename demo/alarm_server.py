@@ -9,6 +9,7 @@ import cv2
 from contextlib import asynccontextmanager
 import json
 
+
 # Download the image
 # curl -O "http://.com/path_to_your_image.jpg"
 # Send the imageexample
