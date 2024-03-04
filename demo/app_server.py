@@ -15,18 +15,16 @@ import json
 # Send the imageexample
 
 # curl -X POST "http://localhost:8000/predict" -H "accept: application/json" -H "Content-Type: multipart/form-data" -F "file=@/home/t3lab/Desktop/courses/images/2024-02-19_19-38-26.png"
-
 # pip install fastapi uvicorn gunicorn ultralytics opencv-python  python-multipart
-# gunicorn -w 4 -k uvicorn.workers.UvicornWorker alarm:app
+# gunicorn -w 4 -k uvicorn.workers.UvicornWorker app_server:app
 # uvicorn alarm_server:app --reload
-
 # Lifespan: https://fastapi.tiangolo.com/advanced/events/
+# uvicorn  app_server:app --host 0.0.0.0 --port 8000
 
 model = None
 
-
 origins = [
-    "http://localhost:3000",  # Allow requests from this origin
+    "http://localhost:8000",  # Allow requests from this origin
     # Add more origins if needed
 ]
 
