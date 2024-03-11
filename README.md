@@ -15,6 +15,8 @@ Deep learning course:
 4. * Augmentation Segmentation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Ultralytics_Augmentation_Albumentation_Segmentation.ipynb)
    * Segmentation yolov8 model: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Ultralytics_Custom_Detection_Example_Focus_on_Agumentation.ipynb)
 5. * Pose Estimation yolov8 model: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Ultralytics_Pose_detection.ipynb)
+6. * Deploy Onnx: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Ultralytics_Pose_detection.ipynb)
+
    
 Extra:
    * Network Pytorch Class Feedforward Step: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/NeuralNetPytorch.ipynb)
