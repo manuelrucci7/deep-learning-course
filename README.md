@@ -4,7 +4,7 @@ Deep learning course:
     * Deep Learning with Python (Class, Function, Numpy array, Tensor, List): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Python_Recap.ipynb)
     * Pytorch Intro [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Pytorch_Intro.ipynb)
     * Ultralytics Intro [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Ultralytics_Intro.ipynb)
-
+    * Ultralytics Ouput understanding and example remove people:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Ultralytics_Understand_Outputs.ipynb) 
 2. * Example Training Pytorch  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/TrainingPytorch.ipynb)
    * Classifier yolov8n-cls ultralytics: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Ultralytics_Classifier.ipynb)
    * Classifier Excercise (portafoglio,cassa,tazza): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Ultralytics_Classifier_Excercise.ipynb)
