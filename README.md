@@ -18,7 +18,9 @@ Deep learning course:
 6. * Deploy Ultralytics yolov8n-seg with Onnx: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Ultralytics_onnx_inference.ipynb)
    * Deploy Ultralytics yolv8 vs yolov10 onnxruntime detection: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Ultralytics_yolov8_vs_yolov10_onnxruntime.ipynb)
    * Ultralytics SAM: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Ultralytics_SegmentAnything.ipynb)
-7. People Remove project: https://github.com/manuelrucci7/people-remove/tree/main
+7. People Remove project:
+8.    * https://github.com/manuelrucci7/people-remove/tree/main
+      * https://lightning.ai/ruccimanuel7/studios/people-remove-yolo-migan
    
 Extra:
    * Transfer Learning Example Ants vs Bee: Training Loop Pytorch example: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/TransferLearningBeesAnts.ipynb)
