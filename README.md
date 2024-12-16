@@ -27,7 +27,7 @@ Deep learning course:
 9. Finance Deep learning LSTM Project: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/FinanceAnalysis.ipynb)
 10. Case Study Machine Learning [Hyperspectral Images Drive Link Project](https://drive.google.com/drive/folders/1HNQl5vGVG6dxIpTFl16E_56fLpaYKDjZ?usp=sharing)
 
-11. Huggin Face Tranformers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/FinanceAnalysis.ipynb])
+11. Huggin Face Tranformers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/LLM.ipynb])
 
 Extra:
    * Transfer Learning Example Ants vs Bee: Training Loop Pytorch example: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/TransferLearningBeesAnts.ipynb)
