@@ -29,8 +29,9 @@ Deep learning course:
 10. Case Study Machine Learning [Hyperspectral Images Drive Link Project](https://drive.google.com/drive/folders/1HNQl5vGVG6dxIpTFl16E_56fLpaYKDjZ?usp=sharing)
 
 11. Huggin Face Tranformers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/LLM.ipynb)
-12. Fine Tuning Transformers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/LLMFineTune.ipynb)
-13. Custom Training Text Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/LLMCustomTrainingTextClassificationTransformer.ipynb)
+12. Huggin Face Tranformers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Tokenizer.ipynb)
+13. Fine Tuning Transformers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/LLMFineTune.ipynb)
+14. Custom Training Text Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/LLMCustomTrainingTextClassificationTransformer.ipynb)
 
 
 Extra:
