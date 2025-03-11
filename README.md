@@ -31,7 +31,9 @@ Deep learning course:
 11. Huggin Face Tranformers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/LLM.ipynb)
 12. Huggin Face Tokenizers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/Tokenizer.ipynb)
 13. Fine Tuning Transformers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/LLMFineTune.ipynb)
-14. Custom Training Text Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/LLMCustomTrainingTextClassificationTransformer.ipynb)
+14. Custom Training Text Classification Rischio Non Rischio[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/LLMCustomTrainingTextClassificationTransformer.ipynb)
+15.  Custom Training Text Classification Amore Paura Spavento Delusione [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelrucci7/deep-learning-course/blob/main/colab/TextClassficationAmorePauraSpaventoDelusione.ipynb)
+
 
 
 Extra:
